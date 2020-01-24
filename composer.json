@@ -1,5 +1,5 @@
 {
-  "name": "pengmaradi/ods-redirects",
+  "name": "josefglatz/ods-redirects",
     "description": "Simply manage (permanent 301) redirects in the list view. The extension supports multidomain sites, count the redirect usage and shows the last referer. UPDATE! imports the records from realurl.",
     "type": "typo3-cms-extension",
     "license": "GPL-2.0-or-later",
